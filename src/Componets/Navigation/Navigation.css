@@ -1,0 +1,21 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  background-color: gold;
+}
+
+.navigation__menu {
+  display: flex;
+}
+
+.navigation__logo {
+  color: white;
+}
+
+.navigation__menuItem {
+  margin-right: 10px;
+  font-weight: 700;
+  color: white;
+}
